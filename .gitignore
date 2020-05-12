@@ -1,0 +1,24 @@
+# InterlliJ directories and files
+.idea/*
+*.iml
+
+# data files
+src/main/resources/data/*
+
+# backups
+src/main/java/examples/backups/*
+
+# output files
+src/main/java/examples/output_files/*
+
+# paper summaries
+src/main/java/examples/paper_summaries/*
+
+# result summaries
+src/main/java/examples/result_summaries/*
+
+# compiler output
+out/*
+
+# log files
+src/main/java/examples/logs/*
